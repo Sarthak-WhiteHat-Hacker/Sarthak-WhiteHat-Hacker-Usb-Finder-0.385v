@@ -3,7 +3,7 @@ Made By Sarthak And Shree Lakshmi
 
 ## Installation
 
-To use my USB finder [Download ](https://pip.pypa.io/en/stable/) then copy the file to the desktop.
+To use my USB finder [Download ](https://github.com/Sarthak-WhiteHat-Hacker/Sarthak-WhiteHat-Hacker-Usb-Finder-0.385v/releases/tag/Downlaod) then copy the file to the desktop.
 
 Then Open Cmd And 
 
